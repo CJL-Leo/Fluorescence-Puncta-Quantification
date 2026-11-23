@@ -34,8 +34,11 @@ How to run
 
 Software
 --------
-MATLAB with Image Processing Toolbox is required for rgb2gray, imfill,
-strel, imdilate, and bwlabel.
+MATLAB with Image Processing Toolbox is required.
+
+The script uses standard MATLAB image-processing functions and is not designed for a specific MATLAB release or operating system. 
+
+The image-processing workflow was validated using MATLAB Online R2026b Update 2. No specialized hardware is required.
 
 
 
