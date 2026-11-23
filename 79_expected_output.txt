@@ -1,0 +1,7 @@
+Example image: 79.tiff
+MATLAB validation version: R2026b Update 2
+Threshold: 130
+Hole filling: imfill
+Dilation: disk radius 1 pixel
+Counting method: bwlabel
+Detected connected components: 22
